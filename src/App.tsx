@@ -184,22 +184,22 @@ export default function App() {
             <div className="grid grid-cols-2 gap-4">
               {[
                 { 
-                  img: "https://images.unsplash.com/photo-1565043589221-1a6299625401?auto=format&fit=crop&q=80&w=800",
+                  img: "/images/john.png",
                   label: "Robotic Systems",
                   offset: ""
                 },
                 { 
-                  img: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=800",
+                  img: "/images/peter.png",
                   label: "Diagnostics",
                   offset: "translate-y-8"
                 },
                 { 
-                  img: "https://images.unsplash.com/photo-1581092162384-8987c1d64718?auto=format&fit=crop&q=80&w=800",
+                  img: "/images/cnc.png",
                   label: "Machine Repair",
                   offset: "-translate-y-8"
                 },
                 { 
-                  img: "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?auto=format&fit=crop&q=80&w=600",
+                  img: "/images/tb.png",
                   label: "Hardware Tuning",
                   offset: ""
                 }
